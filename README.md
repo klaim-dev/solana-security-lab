@@ -4,7 +4,7 @@ Solana vulnerabilities: vulnerable/fixed pairs with exploit tests + audit report
 
 **Stack:** Rust · Anchor · TypeScript · Security reports
 
-**Status:** work in progress - updated daily.
+**Status:** active development.
 
 ## Goal
 
